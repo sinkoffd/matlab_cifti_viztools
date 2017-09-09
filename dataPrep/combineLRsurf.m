@@ -10,7 +10,7 @@ function [newLRsurf] = combineLRsurf(sourceL,sourceR,offset,outputname)
 %       yourself warned.
 %
 % INPUTS
-%   sourceL = loaded gifti object or path to the left hemisphere giftii
+%   sourceL = loaded gifti object or path to the left hemisphere gifti
 %   sourceR = loaded gifti object or path to the right hemisphere gifti
 %
 % OPTIONAL:
